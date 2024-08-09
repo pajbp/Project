@@ -1,3 +1,4 @@
+Project
   1) Project Name: Project1
   2) Installation:
    * Spring tool Suit using follwing link for windows:
